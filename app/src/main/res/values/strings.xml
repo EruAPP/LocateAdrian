@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LocationAdrian</string>
+    <string name="serviceUnaviable">Layanan Tidak Tersedia</string>
+    <string name="invalid">Invalid Woy</string>
+    <string name="not_found">Gak Ketemu</string>
+    <string name="alamat">\"Alamat Kamu : %1$s \n Timestamp: %2$tr\"</string>
+    <string name="loading">Sebentar Ya...</string>
+    <string name="stop">Berhenti Lacak</string>
+    <string name="start">Lacak</string>
+    <string name="hint">Tekan Tombol Dibawah</string>
+    <string name="izin_ditolak">Izikan dulu Lokasi</string>
+</resources>
